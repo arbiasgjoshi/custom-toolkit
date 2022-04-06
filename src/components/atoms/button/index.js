@@ -1,11 +1,11 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import {defaultStyle} from './button.module.scss'
+// import {defaultStyle} from './button.module.scss'
 
 const Button = ({value, hasStyle}) => {
   return (
-    <button className={defaultStyle} style={hasStyle}>{value}</button>
+    <button style={hasStyle}>{value}</button>
   )
 }
 
