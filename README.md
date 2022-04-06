@@ -1,2 +1,2 @@
-# custom-toolkit
+# omneeweb-ui-component-toolkit
 Library Toolkit
