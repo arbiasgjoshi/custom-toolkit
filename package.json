@@ -1,6 +1,6 @@
 {
   "name": "omneeweb-ui-component-toolkit",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Library Toolkit of Reusable components",
   "main": "index.js",
   "scripts": {
